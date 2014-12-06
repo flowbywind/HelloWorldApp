@@ -22,6 +22,7 @@
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     //hello world
+    //what is name;
     // Dispose of any resources that can be recreated.
 }
 
