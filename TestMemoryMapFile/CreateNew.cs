@@ -25,6 +25,7 @@ namespace TestMemoryMapFile
             //{
             //    Console.WriteLine("user:"+item.IdentityReference);
             //    Console.WriteLine("right:" + item.Rights);
+            //test data 
             //}
 
             using (MemoryMappedViewStream stream = mmf.CreateViewStream())
