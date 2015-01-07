@@ -26,7 +26,7 @@ namespace TestMemoryMapFile
 
         }
 
-        #region function 1
+        #region function 1 test
         private string MemoryMappedFileName
         {
             get
